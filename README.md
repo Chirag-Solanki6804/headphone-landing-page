@@ -34,4 +34,3 @@ This is a assignment given in "Full Stack web development" course by PWSKILLS, b
 ## 📌 Acknowledgments
 
 - Course Instructor - [Hitesh Choudhary](https://github.com/hiteshchoudhary)
-- This ReadMe File Inspired From - [prakash-naikwadi](https://github.com/prakash-naikwadi/)
